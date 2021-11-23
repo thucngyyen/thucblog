@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: Resume
 permalink: /Thuc_Nguyen_Software_Engineer_resume.pdf
 ---
