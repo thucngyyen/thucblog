@@ -10,3 +10,4 @@ gem "minima", "~> 2.0"
 # gem "rails"
 
 gem "jekyll-sitemap", "~> 1.4"
+gem "webrick", "~> 1.7"
